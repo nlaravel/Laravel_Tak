@@ -1,0 +1,21 @@
+<?php return [
+
+    'model_name'=>'الاعدادات',
+    'setting_information'=>'بيانات الاعدادات',
+    'setting_social_information'=>'بيانات التواصل',
+    'WebsiteName'=>'اسم الموقع',
+    'email'=>' البريد الالكتروني',
+    'Phone'=>'رقم التلفون',
+    'Mobile1'=>'رقم الموبايل 1',
+    'Mobile2'=>'رقم الموبايل  2',
+    'Address1'=>'العنوان  1','Address2'=>'العنوان  2',
+    'Setting_Logo'=>' شعار الموقع',
+    'Setting_Favicon'=>'أيقونة الموقع',
+    'facebook'=>'الفيس بوك',
+    'twitter'=>'تويتر',
+    'instagram'=>'انستقرام',
+    'whatsapp'=>'واتساب',
+    'linked_in'=>'لينكد ان',
+    'seo_keywords'=>'الكلمة المفتاحية',
+    'seo_description'=>'الوصف المفتاحي',
+    'Setting_Page'=>'صفحة الاعدادات',];

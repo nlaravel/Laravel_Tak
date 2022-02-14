@@ -1,0 +1,12 @@
+<?php return ['model_name'=>'بيت',
+'model_search_name'=>'ابحث عن ....',
+'model_search_button'=>'البحث',
+'model_search_button_rest'=>'تفريغ الحقول',
+'model_search_button_add'=>'اضافة جديد',
+'title'=>'العنوان',
+'description'=>'الوصف ',
+'city_id'=>'المدينة',
+'sales_agent_id'=>'منذوب المبيعات',
+'bedroom_count'=>'عدد الغرف',
+'bathroom_count'=>'عدد الحمامات',
+];
